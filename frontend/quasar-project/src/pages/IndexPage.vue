@@ -22,6 +22,14 @@
         label="Test3"
         no-caps
       />
+
+      <q-btn
+        class="q-mt-md"
+        color="primary"
+        to="/vjezba"
+        label="Vezba"
+        no-caps
+      />
     </div>
   </q-page>
 </template>
